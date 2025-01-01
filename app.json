@@ -10,7 +10,7 @@
     "env": {
       "BOT_TOKEN": {
         "description": "6418802023:AAGBpFtOihuv5ffaVF_l7GqkxrrMOAGD0cA",
-        "value": ""
+        "value": "6418802023:AAGBpFtOihuv5ffaVF_l7GqkxrrMOAGD0cA"
       },
       "API_ID": {
         "description": "22544661",
@@ -36,8 +36,8 @@
         "required": true
       },
       "LOG_CHANNEL": {
-        "description": " -1002352827539",
-        "value": " -1002463068122"
+        "description": "-1002352827539",
+        "value": "-1002463068122"
       }
     },
     "addons": [],
