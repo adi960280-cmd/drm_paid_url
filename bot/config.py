@@ -23,7 +23,7 @@ class Config(object):
     DATABASE_NAME = os.environ.get("DATABASE_NAME", "drmtest")
     DATABASE_URL = os.environ.get("http://t.me/Drmtest1804_bot", None)
     OWNER_ID = int(os.environ.get("6960427846"))
-    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002352827539"))
+    LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ("-1002352827539")
     WEB_SERVER = is_enabled(os.environ.get("WEB_SERVER", "False"), False)
     THUMBNAILS = list(map(str, os.environ.get("THUMBNAILS", "").split()))
 
