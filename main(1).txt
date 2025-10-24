@@ -33,14 +33,14 @@ import datetime
 import aiohttp
 
 bot = Client("bot",
-             bot_token= "7611901718:AAEusvOY57OodWl_WgwcEVm-RiY0MysGMFI", 
+             bot_token= "8399443251:AAFYTeBk3KJ5_3SMDwR81P37hw0VrHdsuMA", 
              #bot_token= os.environ.get("BOT_TOKEN"),
-             api_id= 22544661,
-             api_hash= "5dbcbc7c7388e8442f5da278b5914610)
-auth_users = [6960427846]
+             api_id= 29115102,
+             api_hash= "1a331db2b00e9d2decaa9c7276449eb6")
+auth_users = [1224092270]
 #romeo  
 
-owner_id = [6960427846]
+owner_id = [1224092270]
 # Extras 
 failed_links = []  # List to store failed links
 fail_cap =f"**➜ This file Contain Failed Downloads while Downloding \n You Can Retry them one more time **"
